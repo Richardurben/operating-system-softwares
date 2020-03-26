@@ -1,0 +1,19 @@
+windows常用：（https://github.com/Awesome-Windows/Awesome）
+娱乐：qq，wechat，网易云，potplay，vlc，telegram
+专业：vrep(coppeliasim)，matlab，mathematics，ros2，vmware虚拟机，inkscape，blender，screentogif
+办公：xmind8，office，福昕高级pdf，visio，spacesniffer，everything，7-zip/bandzip/winrar
+学术：mathtype，mathpix，latex，endnote，copytranslate，印象笔记，typroa
+编程：pycharm，codeblocks，vscode，vs，github desktop
+工具：百度网盘，pandownload，idm，xdm，fdm
+linux(ubuntu)常用：（https://github.com/luong-komorebi/Awesome-Linux-Software）
+娱乐：wechat，网易云，potplay，vlc，telegram
+专业：vrep(coppeliasim)，matlab，mathematics，ros全家桶，gazebo，qt-creator，inkscape，blender
+办公：在线mindmaster，wps，自带pdf
+学术：印象笔记网页版，moeditor，xvnc
+编程：qtcreator，vscode
+工具：百度网盘，xtreme download，qbittorrent，qv2ray，vnc
+mac常用：（https://github.com/jaywcjlove/awesome-mac）
+待更
+
+
+
